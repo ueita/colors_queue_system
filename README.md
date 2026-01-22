@@ -4,6 +4,5 @@ Applet for simulating the Aphelios colors queue system
 
 ## Instructions
 
-Download
-
-Run main.py
+1. Download
+2. Run main.py
