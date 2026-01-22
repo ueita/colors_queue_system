@@ -19,8 +19,8 @@ class C:
 
     g : str = "\033[96mCalibrum\033[0m"
     r : str = "\033[91mSeverum\033[0m"
-    p : str = "\033[94mGravitum\033[0m"
-    b : str = "\033[95mInfernum\033[0m"
+    p : str = "\033[95mGravitum\033[0m"
+    b : str = "\033[94mInfernum\033[0m"
     w : str = "\033[97mCrescendum\033[0m"
 
 if __name__ == "__main__":
