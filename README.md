@@ -1,4 +1,4 @@
-# colors_queue_system
+# Colors Queue System
 
 Applet for simulating the Aphelios colors queue system
 
