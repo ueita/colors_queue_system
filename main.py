@@ -2,8 +2,8 @@
 main.py
 """
 
-from colors import C
-from queue_system import QueueSystem
+from colors.colors import C
+from queue_system.queue_system import QueueSystem
 
 sequence = [C.g, C.r, C.p, C.b, C.w]
 qs = QueueSystem(sequence)
