@@ -2,6 +2,7 @@
 
 Applet for simulating the Aphelios colors queue system
 
-## Instructions:
+## Instructions
 
+Download
 Run main.py
