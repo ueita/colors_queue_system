@@ -8,10 +8,11 @@ from queue_system.queue_system import QueueSystem
 sequence = [C.g, C.r, C.p, C.b, C.w]
 qs = QueueSystem(sequence)
 
-print("q : dump current main")
-print("w : swap main and off-hand")
-print("other : exit")
-print()
+print(
+    "q : dump current main\n"
+    "w : swap main and off-hand\n"
+    "other : exit\n"
+)
 
 while True:
     cmd = input(f"{qs} : ").strip().lower()
