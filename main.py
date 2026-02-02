@@ -8,8 +8,8 @@ from queue_system.queue_system import QueueSystem
 sequence = [C.g, C.r, C.p, C.b, C.w]
 qs = QueueSystem(sequence)
 
-print("q : dump current primary")
-print("w : swap primary and secondary")
+print("q : dump current main")
+print("w : swap main and off-hand")
 print("other : exit")
 print()
 
