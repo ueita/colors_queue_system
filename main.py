@@ -9,7 +9,7 @@ sequence = [C.g, C.r, C.p, C.b, C.w]
 qs = QueueSystem(sequence)
 
 print("q : dump current primary")
-print("w : swap priimary and secondary")
+print("w : swap primary and secondary")
 print("other : exit")
 print()
 
