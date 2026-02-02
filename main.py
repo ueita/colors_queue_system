@@ -14,10 +14,10 @@ print("other : exit")
 print()
 
 while True:
-    i = input(f"{qs} : ")
-    if i == "q":
+    cmd = input(f"{qs} : ").strip().lower()
+    if cmd == "q":
         qs.dump()
-    elif i == "w":
+    elif cmd == "w":
         qs.w()
     else:
         break
